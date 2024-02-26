@@ -1,4 +1,4 @@
-# -claudiamatoscaetano-.github.io
+# Hello, World!
 As a QA with over 8 years of experience in diverse markets as Tourism, Retail, User Generated Content and Knowledge Graph, I have developed a keen eye for detail and a relentless drive to ensure that every product I touch achieves the highest quality standards. My proactive approach to learning programming languages and gaining a comprehensive understanding of both front-end and back-end development has significantly enhanced my ability to communicate effectively with developers and grasp the full scope of their work.
 I adapt quickly to new technologies and methodologies. My goal is to identify and resolve potential issues before they affect the end-user, ensuring a seamless and positive user experience.
 
